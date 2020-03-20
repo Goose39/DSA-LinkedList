@@ -1,3 +1,5 @@
+// Cycle linked list creation?
+
 let CycleList = require('./1. Create a linked list class');
 
 const checkCycle = (list) => {

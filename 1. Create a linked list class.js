@@ -161,6 +161,6 @@ CycleList = () => {
   return SSL
 }
 
-module.exports = CycleList();
+// module.exports = CycleList();
 
-// module.exports = LinkedList;
+module.exports = LinkedList;
